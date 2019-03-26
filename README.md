@@ -42,7 +42,7 @@ Clone this repo, install the dependencies and start the app.
 ----------------------
 
 ![Mark](https://i.imgur.com/hBlOvcJ.png)
-***
+----------------------
 ## Contributing
 
 1. Make the project fork (<https://github.com/DittrichLucas/recipes-filter>)
