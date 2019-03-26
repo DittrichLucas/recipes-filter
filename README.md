@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/gh/DittrichLucas/recipes-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/DittrichLucas/recipes-filter)
+[![Build Status](https://travis-ci.com/DittrichLucas/recipes-filter.svg?branch=master)](https://travis-ci.com/DittrichLucas/recipes-filter)
+
 <!-- Logo -->
 <p align="center">
   <a rel="noopener" target="_blank"><img width="150" src="./src/logo.png" alt="Recipe Filter logo"></a></p>
