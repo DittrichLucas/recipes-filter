@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <a rel="noopener" target="_blank"><img width="150" src="./src/logo.png" alt="Recipe Filter logo"></a></p>
+  <a rel="noopener" target="_blank"><img width="150" src="./src/logo.png" alt="Recipe Filter logo"></a>
 </p>
 
 <!-- Name -->
@@ -19,12 +19,12 @@
 <!-- Imagens de build -->
 
 ![](../header.png)
-***
+----------------------
 ## Requirements
 - :heavy_check_mark: **Node** >= 8
 - :heavy_check_mark: **Yarn** (or NPM)
 
-***
+----------------------
 ## Installation
 
 Clone this repo, install the dependencies and start the app.
@@ -34,12 +34,12 @@ Clone this repo, install the dependencies and start the app.
 > yarn
 
 > yarn start
-***
+----------------------
 ## Screenshots
 
 ![Initial](https://i.imgur.com/30fJL4i.png)
 
-----
+----------------------
 
 ![Mark](https://i.imgur.com/hBlOvcJ.png)
 ***
