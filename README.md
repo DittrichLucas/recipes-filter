@@ -1,5 +1,6 @@
 [![codecov](https://codecov.io/gh/DittrichLucas/recipes-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/DittrichLucas/recipes-filter)
 [![Build Status](https://travis-ci.com/DittrichLucas/recipes-filter.svg?branch=master)](https://travis-ci.com/DittrichLucas/recipes-filter)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fca5d95e2170932cd5c0/maintainability)](https://codeclimate.com/github/DittrichLucas/recipes-filter/maintainability)
 
 <!-- Logo -->
 <p align="center">
