@@ -15,8 +15,23 @@
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
-        "test": "cross-env CI=true react-scripts test --env=jsdom",
+        "report-coverage": "codecov",
+        "test": "cross-env CI=true react-scripts test --colors --collectCoverage --env=jsdom",
         "exec": "cross-env CI=true react-scripts test --env=jsdom --json",
         "eject": "react-scripts eject"
+    },
+    "jest": {
+        "coverageReporters": [
+            "html",
+            "text",
+            "lcov"
+        ],
+        "collectCoverageFrom": [
+            "src/**/*.js",
+            "!src/index.js"
+        ]
+    },
+    "devDependencies": {
+        "codecov": "3.2.0"
     }
 }
