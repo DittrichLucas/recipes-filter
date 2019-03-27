@@ -1,8 +1,3 @@
-[![codecov](https://codecov.io/gh/DittrichLucas/recipes-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/DittrichLucas/recipes-filter)
-[![Build Status](https://travis-ci.com/DittrichLucas/recipes-filter.svg?branch=master)](https://travis-ci.com/DittrichLucas/recipes-filter)
-[![Maintainability](https://api.codeclimate.com/v1/badges/fca5d95e2170932cd5c0/maintainability)](https://codeclimate.com/github/DittrichLucas/recipes-filter/maintainability)
-[![Issues](https://codeclimate.com/github/DittrichLucas/recipes-filter/badges/issue_count.svg)](https://github.com/DittrichLucas/recipes-filter/issues)
-
 <!-- Logo -->
 <p align="center">
   <a rel="noopener" target="_blank"><img width="150" src="./src/logo.png" alt="Recipe Filter logo"></a>
@@ -17,15 +12,23 @@
 </div>
 
 <!-- Imagens de build -->
+[![codecov](https://codecov.io/gh/DittrichLucas/recipes-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/DittrichLucas/recipes-filter)
+[![Build Status](https://travis-ci.com/DittrichLucas/recipes-filter.svg?branch=master)](https://travis-ci.com/DittrichLucas/recipes-filter)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fca5d95e2170932cd5c0/maintainability)](https://codeclimate.com/github/DittrichLucas/recipes-filter/maintainability)
+[![Issues](https://codeclimate.com/github/DittrichLucas/recipes-filter/badges/issue_count.svg)](https://github.com/DittrichLucas/recipes-filter/issues)
+
 
 ![](../header.png)
-----------------------
-## Requirements
-- :heavy_check_mark: **Node** >= 8
-- :heavy_check_mark: **Yarn** (or NPM)
 
-----------------------
-## Installation
+## ► Requirements
+
+|     |      |
+|-----|------|
+| :heavy_check_mark: **Node** >= 8 |
+| :heavy_check_mark: **Yarn** (or NPM)|
+
+
+## ► Installation
 
 Clone this repo, install the dependencies and start the app.
 
@@ -34,16 +37,16 @@ Clone this repo, install the dependencies and start the app.
 > yarn
 
 > yarn start
-----------------------
-## Screenshots
+
+## ► Screenshots
 
 ![Initial](https://i.imgur.com/30fJL4i.png)
 
 ----------------------
 
 ![Mark](https://i.imgur.com/hBlOvcJ.png)
-----------------------
-## Contributing
+
+## ► Contributing
 
 1. Make the project fork (<https://github.com/DittrichLucas/recipes-filter>)
 1. Create a _branch_ for your modification (`git checkout -b feature/fooBar`)
@@ -51,6 +54,6 @@ Clone this repo, install the dependencies and start the app.
 1. _Push_ (`git push origin feature/fooBar`)
 1. Create a new _Pull Request_
 
-## License
+## ► License
 
 [MIT](https://github.com/DittrichLucas/recipes-filter/blob/master/LICENSE)
