@@ -8,24 +8,21 @@
 
 <!-- Badges -->
 <div align="center">
-    Listing example and recipe filter in <a href="http://facebook.github.io/react/">React</a>
-</div>
+    Listing example and recipe filter in <a href="http://facebook.github.io/react/">React</a><br /><br />
 
 <!-- Imagens de build -->
 [![codecov](https://codecov.io/gh/DittrichLucas/recipes-filter/branch/master/graph/badge.svg)](https://codecov.io/gh/DittrichLucas/recipes-filter)
 [![Build Status](https://travis-ci.com/DittrichLucas/recipes-filter.svg?branch=master)](https://travis-ci.com/DittrichLucas/recipes-filter)
 [![Maintainability](https://api.codeclimate.com/v1/badges/fca5d95e2170932cd5c0/maintainability)](https://codeclimate.com/github/DittrichLucas/recipes-filter/maintainability)
 [![Issues](https://codeclimate.com/github/DittrichLucas/recipes-filter/badges/issue_count.svg)](https://github.com/DittrichLucas/recipes-filter/issues)
+![GitHub](https://img.shields.io/github/license/DittrichLucas/recipes-filter.svg)
 
-
-![](../header.png)
+</div>
 
 ## ► Requirements
 
-|     |      |
-|-----|------|
-| :heavy_check_mark: **Node** >= 8 |
-| :heavy_check_mark: **Yarn** (or NPM)|
+[x] **Node** (8 or higher)
+[x] **Yarn** (or NPM)
 
 
 ## ► Installation
@@ -53,7 +50,3 @@ Clone this repo, install the dependencies and start the app.
 1. Do the _commit_ (`git commit -am 'Add some fooBar'`)
 1. _Push_ (`git push origin feature/fooBar`)
 1. Create a new _Pull Request_
-
-## ► License
-
-[MIT](https://github.com/DittrichLucas/recipes-filter/blob/master/LICENSE)
